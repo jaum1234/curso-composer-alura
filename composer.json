@@ -47,6 +47,8 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificaçoes do código."
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar.php"]
 }
 
