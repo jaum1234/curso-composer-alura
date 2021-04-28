@@ -1,0 +1,12 @@
+Sabemos agora que há 2 formas diferentes de instalar um pacote utilizando o Composer.
+
+Como posso instalar um pacote utilizando o Composer?
+
+1- Executando o comando composer require <pacote>.
+Basta substituir <pacote> pelo nome do pacote a instalar. Com isso além de instalar a dependência o Composer a adicionará no composer.json
+
+2- Adicionando no item require do composer.json e executando o comando composer install.
+Desta forma o Composer lerá o arquivo composer.json e instalará todas as dependências listadas nele.
+
+
+Para realizar atualizaçoes, basta digitar no terminal: composer update

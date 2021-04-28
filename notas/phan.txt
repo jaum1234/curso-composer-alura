@@ -1,0 +1,8 @@
+vendor\bin\phan --help
+
+vendor\bin\phan --allow-polyfill-parser caminho
+
+
+
+
+Analisa o código e encontra possiveis erros.
